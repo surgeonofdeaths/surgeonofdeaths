@@ -1,12 +1,12 @@
 # 💫 About Me:
-- 🔭 I’m currently working on a [paginator bot]() 
+- 🔭 I’m currently working on a fullstack project using FastApi and React, in my spare time I learn C++
 - 👯 I’m always open to collaborations :)
-- 🌱 I’m currently learning **aiogram**, **sqlalchemy**, **drf**
+- 🌱 I’m currently learning **FastApi**, **sqlalchemy**, **pydantic**
 - ⚡ Fun fact: I can't live without vim key bindings!
 
 # 🥅 2023 Goals:
-- Become a Junior Python Backend Developer; 
-- Learn cool things such as asynchronous programming, FastApi
+- Become a Software Engineer; 
+- Learn cool things such as asynchronous programming, FastApi, react, c++
 ## 💻 Tech Stack
 
 ### **Backend**: 
